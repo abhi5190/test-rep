@@ -1,3 +1,4 @@
-this is a code file
-this line is added in abhi branch
-this is 3rd line of the code
+this is a code
+this code is edited in main branch
+this is third line
+>>>>>>> main
